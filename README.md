@@ -13,8 +13,7 @@ ref: Pu Y, Gan Z, Henao R, Yuan X, Li C, Stevens A, et al. Variational autoencod
 2. forecasting model
 If you click the folder, there is another folder that divided into Jeju island, land and solar and wind.
 
-Authors
-
+### Authors
 Yoonjae Lee
 
 Byeongmin Ha
