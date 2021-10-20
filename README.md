@@ -13,7 +13,7 @@ Data conversion was used the conversion factor with reference to the Korean vari
 The structure of the VAE can be seen in the figure below:
 
 ![image](https://user-images.githubusercontent.com/91713489/138055958-40462ae3-cca5-4121-afa3-fcf3954c6f62.png)
-
+<img src="https://user-images.githubusercontent.com/91713489/138055958-40462ae3-cca5-4121-afa3-fcf3954c6f62.png" width="700 " height="800">
 Variation Auto Encoder is divided into encoder and decoder. The encoder makes z to extract the features of the data, and the decoder makes the model to make the original data using z. For more information, find to the reference.
 
 ref: Pu Y, Gan Z, Henao R, Yuan X, Li C, Stevens A, et al. Variational autoencoder for deep learning of images, labels and captions. 
@@ -35,5 +35,5 @@ Home page: https://aipse.netlify.app
 
 If you have any questions, please contact us.
 
-
+***
 copyright
