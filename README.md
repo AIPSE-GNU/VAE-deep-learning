@@ -7,6 +7,7 @@ In order to reproduce the results or figures, needs to download the all script f
 
 ***
 ### git structure
+
 #### sample generation model
 
 Data conversion was used the conversion factor with reference to the Korean variable renewable energy policy(3020 plan). Converted data can be found in the VAE_DATA folder. Put it into VAE_MODEL/RES/train?RES_YB path, learn the model within ex_VAE_002_train.py, and generate sampling data using ex_VAE_002_test.py.
@@ -23,8 +24,10 @@ ref: Pu Y, Gan Z, Henao R, Yuan X, Li C, Stevens A, et al. Variational autoencod
 #### forecasting model
 
 If you click the folder, there is another folder that divided into Jeju island, land and solar and wind.
+
 ***
 ### Authors
+
 Yoonjae Lee
 
 Byeongmin Ha
