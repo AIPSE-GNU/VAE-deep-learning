@@ -14,11 +14,16 @@ ref: Pu Y, Gan Z, Henao R, Yuan X, Li C, Stevens A, et al. Variational autoencod
 If you click the folder, there is another folder that divided into Jeju island, land and solar and wind.
 
 Authors
+
 Yoonjae Lee
+
 Byeongmin Ha
+
 Soonho Hwangbo
+
 Department of Chemical Engineering, Gyeongsang National University
-https://aipse.netlify.app
+
+Home page: https://aipse.netlify.app
 
 If you have any questions, please contact us.
 
