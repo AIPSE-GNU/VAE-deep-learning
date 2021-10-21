@@ -39,6 +39,8 @@ The Gated Recurrent Unit(GRU) network is similar to the LSTM network but it has 
 
 <img src="https://user-images.githubusercontent.com/91713489/138211272-f71cf03f-8644-4a60-9cba-9cc588e7c1a9.jpg" width="600" height="370">
 
+There is no significant difference in structure from LSTM, but the dominant model may vary depending on the data structure and preprocessing. GRU has a lower weight to learn than LSTM, so it has an advantage in simple data set processing. For more information, see script comment or refrence.
+
 ref: Lim JY, Safder U, How BS, Ifaei P, Yoo CK. Nationwide sustainable renewable energy and Power-to-X deployment planning in South Korea assisted with forecasting model. 
 
 The Deep Neural Network(DNN) that is illustrated below fig in a simple manner contains multiple hidden layers in-between the input and output layers. It is able to extract a higher level abstraction of the input data (i.e., a feature map) to preserve significant information distributed in each layer. In doing so, the DNN network learns arbitrary complex mappings between inputs and outputs to implement time-series forecasting.
@@ -47,7 +49,7 @@ The Deep Neural Network(DNN) that is illustrated below fig in a simple manner co
 
 ref: Li G, Hari SKS, Sullivan M, Tsai T, Pattabiraman K, Emer J, et al. Understanding error propagation in Deep Learning Neural Network (DNN) accelerators and applications. 
 
-ARIMA
+The Auto Regressive Intergrated Moving Average (ARIMA) model is one of the time series data prediction methods. The weights of the ARIMA model are denoted by (p, d, q), and p is AR, d is I, and q is the MA part. To application this model, differentiation and auto correlation function (ACF) and parial auto-correlation function (PACF) should be used. Details are shown in the reference below.
 
 ref: Contreras J, Espínola R, Nogales FJ, Conejo AJ. ARIMA models to predict next-day electricity prices. IEEE Trans Power Syst
 
