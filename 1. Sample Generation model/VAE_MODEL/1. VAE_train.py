@@ -9,7 +9,7 @@ from sklearn.model_selection import train_test_split
 from keras.utils import to_categorical
 
 # 데이터 호출 (sampling의 경우 test data는 사용되지 않음)
-from ex_load_data_002 import load_dataset
+from load_data import load_dataset
 # x_train, x_test = load_dataset()
 x_train = load_dataset()
 

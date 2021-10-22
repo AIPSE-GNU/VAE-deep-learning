@@ -28,7 +28,7 @@ from sklearn.model_selection import train_test_split
 from keras.utils import to_categorical
 
 # 훈련에 사용된 scaler를 다시 호출하기 위한 프로세스
-from ex_load_data_002 import load_dataset
+from load_data import load_dataset
 x_train = load_dataset()
 scaler = MinMaxScaler(feature_range=(0, 1))
 x_train = scaler.fit_transform(x_train.reshape(x_train.shape[0], -1)).reshape(x_train.shape)
