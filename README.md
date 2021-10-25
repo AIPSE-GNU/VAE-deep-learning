@@ -5,6 +5,8 @@ Script for Yoonjae Lee et al. 2021, Journal, article name.
 This repository contains a script for the sampling model and deep learning model.
 In order to reproduce the results or figures, needs to download the all script from the git.
 
+***
+
 ![read me](https://user-images.githubusercontent.com/91713489/138623084-08ec44ca-0c70-4503-a9ac-05eb90876aea.jpg)
 
 ***
